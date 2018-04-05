@@ -1,0 +1,34 @@
+#first_range,#second_range,#third_range,#fourth_range,#color{
+	width: 70px;
+	
+	}
+
+#range{
+	background-color: pink;
+	color: purple;
+	}
+#number{
+	background-color: brown;
+	color: white;
+	}
+#random{
+	background-color: green;
+	color: red;
+	}
+#plus{
+	background-color: grey;
+	color: black;
+	}
+#create_r{
+	background-color: purple;
+	color: white;
+	}
+#stop_r{
+	background-color: red;
+	color: white;
+	}
+#photo,.photos {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+   }
